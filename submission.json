@@ -1,0 +1,7 @@
+{
+  "prompt": "A powerful editorial-style visual metaphor of whale population collapse, a vast calm ocean at sunrise viewed from above, only a few real whales swimming in the foreground, clearly visible and solid, while many faint translucent whale silhouettes appear in the distance and above the horizon, representing lost populations, the contrast between the few living whales and the many ghost whales is immediately clear, natural composition with no artificial structure, deep blue ocean fading into soft warm light at the horizon, cinematic, realistic, emotionally heavy, minimal and atmospheric, clear visual storytelling emphasizing loss and proportion, no text, no labels, no charts, no infographic elements",
+  "model": "DALL·E 3",
+  "dataset_name": "Whale populations (Pershing et al. 2010)",
+  "dataset_url": "https://github.com/owid/owid-datasets/tree/master/datasets/Whale%20populations%20(Pershing%20et%20al.%202010)",
+  "insight": "Modern whale populations are only a small fraction of their pre-whaling numbers, with most whales that once existed now gone"
+}
