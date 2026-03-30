@@ -1,0 +1,6 @@
+{
+  "prompt": "A highly detailed, realistic scene inside a tailor’s workshop, one person stands wearing a perfectly fitted suit that contours exactly to every detail of their body, around them, several other people attempt to wear identical copies of the suit but it fits them poorly, stretched awkwardly or too tight in some places, the suit appears unnaturally specific to the first person, with exaggerated precision in fit, the surrounding people look uncomfortable or mismatched in the same suit, the environment is natural and realistic, with fabric, mirrors, and tailoring tools visible, cinematic lighting, editorial photography style, no text, no labels, no diagrams, no abstract or futuristic elements",
+  "model": "DALL·E 3",
+  "concept": "overfitting",
+  "metaphor": "A suit tailored perfectly to one person fits exactly but poorly fits others, showing a model that memorizes one case but fails to generalize"
+}
